@@ -1,1 +1,2 @@
 Dog in firstbranch
+Added a line after merging
